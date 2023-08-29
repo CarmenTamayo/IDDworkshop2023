@@ -10,7 +10,7 @@ Authors@R: c(
            comment = c(ORCID = "0000-0003-4184-2864")))
 Description: A paragraph providing a full description of the project (on 
     several lines...)
-URL: https://github.com/CarmenTamayo/IDDworkshop2023
+URL: https://github.com/CarmenTamayo/IDDworkshop2023, https://carmentamayo.github.io/IDDworkshop2023/
 BugReports: https://github.com/CarmenTamayo/IDDworkshop2023/issues
 License: GPL (>= 2)
 Encoding: UTF-8
